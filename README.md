@@ -4,15 +4,17 @@
 
 <img width="100%" src="./assets/header.svg" alt="Tasachii — Software Engineer · Backend · Full-Stack" />
 
+<br/><br/>
+
 Software & Knowledge Engineering student &#64;Kasetsart University
+
+<br/>
 
 Interested in Data Engineering · Web Development · Backend · AI
 
+<br/>
+
 <sub>📍 Bangkok, Thailand &nbsp;·&nbsp; 🔍 open to Software Engineer internships</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Tasachii&label=visitors&color=2c5364&style=flat-square" alt="visitors" />
 
 </div>
 
@@ -111,6 +113,10 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 <a href="https://www.instagram.com/ttpxt_"><img src="https://img.shields.io/badge/Instagram-4a6fa5?style=flat-square&logo=instagram&logoColor=white" alt="instagram" /></a>
 &nbsp;
 <a href="https://web.facebook.com/TAE.DS.48/"><img src="https://img.shields.io/badge/Facebook-2c5364?style=flat-square&logo=facebook&logoColor=white" alt="facebook" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tasachii&label=visitors&color=2c5364&style=flat-square" alt="visitors" />
 
 </div>
 
