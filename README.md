@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2a4a,50:2c5364,100:4a6fa5&height=210&section=header&text=Tasachii&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Full-Stack&descSize=17&descAlignY=60" alt="Tasachii" />
 
-📍 Bangkok, Thailand &nbsp;·&nbsp; 🎓 Software Engineering @ Kasetsart University
+📍 Bangkok, Thailand &nbsp;·&nbsp; 🎓 Software Engineering &#64;Kasetsart University
 
 <sub>I build software that actually ships — tested, deployed, documented.</sub>
 
