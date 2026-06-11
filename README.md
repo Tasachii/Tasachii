@@ -110,9 +110,11 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 &nbsp;
 <a href="https://github.com/Tasachii"><img src="https://img.shields.io/badge/GitHub-1b2a4a?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
 &nbsp;
-<a href="https://www.instagram.com/ttpxt_"><img src="https://img.shields.io/badge/Instagram-4a6fa5?style=flat-square&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://www.linkedin.com/in/tasachi-desu-6063202b9/"><img src="https://img.shields.io/badge/LinkedIn-4a6fa5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 &nbsp;
-<a href="https://web.facebook.com/TAE.DS.48/"><img src="https://img.shields.io/badge/Facebook-2c5364?style=flat-square&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://www.instagram.com/ttpxt_"><img src="https://img.shields.io/badge/Instagram-2c5364?style=flat-square&logo=instagram&logoColor=white" alt="instagram" /></a>
+&nbsp;
+<a href="https://web.facebook.com/TAE.DS.48/"><img src="https://img.shields.io/badge/Facebook-1b2a4a?style=flat-square&logo=facebook&logoColor=white" alt="facebook" /></a>
 
 <br/><br/>
 

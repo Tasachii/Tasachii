@@ -1,33 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-label="Tasachii — Software Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="Phasathat — Software Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1b2a4a"/>
+      <stop offset="0%" stop-color="#16233f"/>
       <stop offset="55%" stop-color="#2c5364"/>
       <stop offset="100%" stop-color="#4a6fa5"/>
     </linearGradient>
+    <radialGradient id="moonGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="35%" stop-color="#dfeaf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#dfeaf8" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <rect width="1200" height="230" fill="url(#bg)"/>
+  <rect width="1200" height="250" fill="url(#bg)"/>
 
-  <!-- back wave (slow) -->
-  <path d="M0,175 Q150,200 300,175 T600,175 T900,175 T1200,175 T1500,175 T1800,175 L1800,230 L0,230 Z"
-        fill="#ffffff" opacity="0.06">
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="95"  cy="48"  r="1.6" opacity="0.55">
+      <animate attributeName="opacity" values="0.55;0.15;0.55" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="210" cy="92"  r="1.2" opacity="0.35"/>
+    <circle cx="318" cy="38"  r="1.4" opacity="0.45">
+      <animate attributeName="opacity" values="0.45;0.1;0.45" dur="4.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="455" cy="66"  r="1.1" opacity="0.30"/>
+    <circle cx="700 " cy="42" r="1.3" opacity="0.40">
+      <animate attributeName="opacity" values="0.4;0.12;0.4" dur="3.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="845" cy="84"  r="1.2" opacity="0.35"/>
+    <circle cx="935" cy="36"  r="1.5" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="150" r="1.1" opacity="0.25"/>
+    <circle cx="1010" cy="120" r="1.1" opacity="0.3"/>
+  </g>
+
+  <!-- moon -->
+  <circle cx="1080" cy="62" r="60" fill="url(#moonGlow)"/>
+  <circle cx="1080" cy="62" r="20" fill="#eef4fb" opacity="0.9"/>
+
+  <!-- waves: 3 layers, far → near -->
+  <path d="M0,182 Q150,206 300,182 T600,182 T900,182 T1200,182 T1500,182 T1800,182 L1800,250 L0,250 Z"
+        fill="#ffffff" opacity="0.05">
     <animateTransform attributeName="transform" type="translate"
-                      values="0 0; -600 0" dur="16s" repeatCount="indefinite"/>
+                      values="0 0; -600 0" dur="22s" repeatCount="indefinite"/>
   </path>
-
-  <!-- front wave (fast) -->
-  <path d="M0,188 Q150,158 300,188 T600,188 T900,188 T1200,188 T1500,188 T1800,188 L1800,230 L0,230 Z"
-        fill="#ffffff" opacity="0.10">
+  <path d="M0,196 Q150,172 300,196 T600,196 T900,196 T1200,196 T1500,196 T1800,196 L1800,250 L0,250 Z"
+        fill="#ffffff" opacity="0.08">
+    <animateTransform attributeName="transform" type="translate"
+                      values="0 0; -600 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,212 Q150,232 300,212 T600,212 T900,212 T1200,212 T1500,212 T1800,212 L1800,250 L0,250 Z"
+        fill="#ffffff" opacity="0.12">
     <animateTransform attributeName="transform" type="translate"
                       values="0 0; -600 0" dur="9s" repeatCount="indefinite"/>
   </path>
 
-  <text x="600" y="103" text-anchor="middle" fill="#ffffff"
+  <text x="600" y="112" text-anchor="middle" fill="#ffffff"
         font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="58" font-weight="700" letter-spacing="2">Tasachii</text>
+        font-size="60" font-weight="700" letter-spacing="3">Phasathat</text>
 
-  <text x="600" y="146" text-anchor="middle" fill="#cfe0f4"
+  <text x="600" y="156" text-anchor="middle" fill="#cfe0f4"
         font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-        font-size="19" letter-spacing="3">SOFTWARE ENGINEER · BACKEND · FULL-STACK</text>
+        font-size="19" letter-spacing="4">SOFTWARE ENGINEER · BACKEND · FULL-STACK</text>
 </svg>
