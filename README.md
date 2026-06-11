@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2a4a,50:2c5364,100:4a6fa5&height=210&section=header&text=Tasachi&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Full-Stack&descSize=17&descAlignY=60" alt="Tasachi" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2a4a,50:2c5364,100:4a6fa5&height=210&section=header&text=Tasachii&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Full-Stack&descSize=17&descAlignY=60" alt="Tasachii" />
 
 📍 Bangkok, Thailand &nbsp;·&nbsp; 🎓 Software Engineering @ Kasetsart University
 
@@ -45,7 +45,7 @@ On-device finance PWA. Log an expense in 3 taps — 100% on your device, no acco
 
 <sub>`React` · `TypeScript` · `Vite` · `Dexie` · `Vitest`</sub>
 
-[→ repo](https://github.com/Tasachii/pocketo)
+[**▶ live demo**](https://tasachii.github.io/pocketo/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/pocketo)
 
 </td>
 <td width="50%" valign="top">
@@ -55,7 +55,7 @@ Local-first todo where a terminal CLI, web, and native iOS are equal clients of 
 
 <sub>`Node.js` · `Fastify` · `SQLite` · `React` · `Capacitor`</sub>
 
-[→ repo](https://github.com/Tasachii/TodoDesu)
+[**▶ live demo**](https://tasachii.github.io/TodoDesu/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/TodoDesu)
 
 </td>
 </tr>
@@ -105,6 +105,10 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 <a href="mailto:kazutokung59@gmail.com"><img src="https://img.shields.io/badge/Email-2c5364?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 &nbsp;
 <a href="https://github.com/Tasachii"><img src="https://img.shields.io/badge/GitHub-1b2a4a?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
+&nbsp;
+<a href="https://www.instagram.com/ttpxt_"><img src="https://img.shields.io/badge/Instagram-4a6fa5?style=flat-square&logo=instagram&logoColor=white" alt="instagram" /></a>
+&nbsp;
+<a href="https://web.facebook.com/TAE.DS.48/"><img src="https://img.shields.io/badge/Facebook-2c5364?style=flat-square&logo=facebook&logoColor=white" alt="facebook" /></a>
 
 </div>
 
