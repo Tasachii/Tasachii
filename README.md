@@ -14,7 +14,7 @@ Interested in Data Engineering · Web Development · Backend · AI
 
 <br/>
 
-<sub>📍 Bangkok, Thailand &nbsp;·&nbsp; 🔍 open to Software Engineer internships</sub>
+📍 Bangkok, Thailand
 
 </div>
 
