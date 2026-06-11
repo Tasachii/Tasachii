@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-label="Tasachii — Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b2a4a"/>
+      <stop offset="55%" stop-color="#2c5364"/>
+      <stop offset="100%" stop-color="#4a6fa5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="230" fill="url(#bg)"/>
+
+  <!-- back wave (slow) -->
+  <path d="M0,175 Q150,200 300,175 T600,175 T900,175 T1200,175 T1500,175 T1800,175 L1800,230 L0,230 Z"
+        fill="#ffffff" opacity="0.06">
+    <animateTransform attributeName="transform" type="translate"
+                      values="0 0; -600 0" dur="16s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- front wave (fast) -->
+  <path d="M0,188 Q150,158 300,188 T600,188 T900,188 T1200,188 T1500,188 T1800,188 L1800,230 L0,230 Z"
+        fill="#ffffff" opacity="0.10">
+    <animateTransform attributeName="transform" type="translate"
+                      values="0 0; -600 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="600" y="103" text-anchor="middle" fill="#ffffff"
+        font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="58" font-weight="700" letter-spacing="2">Tasachii</text>
+
+  <text x="600" y="146" text-anchor="middle" fill="#cfe0f4"
+        font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="19" letter-spacing="3">SOFTWARE ENGINEER · BACKEND · FULL-STACK</text>
+</svg>

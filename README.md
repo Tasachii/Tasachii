@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b2a4a,50:2c5364,100:4a6fa5&height=210&section=header&text=Tasachii&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Full-Stack&descSize=17&descAlignY=60" alt="Tasachii" />
+<img width="100%" src="./assets/header.svg" alt="Tasachii — Software Engineer · Backend · Full-Stack" />
 
-**Software & Knowledge Engineering** student &#64;Kasetsart University
+Software & Knowledge Engineering student &#64;Kasetsart University
 
-Interested in **Data Engineering · Web Development · Backend · AI**
+Interested in Data Engineering · Web Development · Backend · AI
 
 <sub>📍 Bangkok, Thailand &nbsp;·&nbsp; 🔍 open to Software Engineer internships</sub>
 
@@ -18,7 +18,7 @@ Interested in **Data Engineering · Web Development · Backend · AI**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b2a4a,100:2c5364&height=44&section=header&text=Tech&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=54" alt="Tech" />
+<img width="100%" src="./assets/bar-tech.svg" alt="Tech" />
 
 <div align="center">
 <br/>
@@ -34,7 +34,7 @@ Interested in **Data Engineering · Web Development · Backend · AI**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b2a4a,100:2c5364&height=44&section=header&text=Projects&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=54" alt="Projects" />
+<img width="100%" src="./assets/bar-projects.svg" alt="Projects" />
 
 <br/>
 
@@ -87,7 +87,7 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b2a4a,100:2c5364&height=44&section=header&text=Stats&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=54" alt="Stats" />
+<img width="100%" src="./assets/bar-stats.svg" alt="Stats" />
 
 <div align="center">
 <br/>
@@ -99,7 +99,7 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b2a4a,100:2c5364&height=44&section=header&text=Contact&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=54" alt="Contact" />
+<img width="100%" src="./assets/bar-contact.svg" alt="Contact" />
 
 <div align="center">
 <br/>
@@ -116,4 +116,4 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a6fa5,50:2c5364,100:1b2a4a&height=120&section=footer" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="" />
