@@ -85,6 +85,20 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Sendo
+Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholding tax are computed and read-only, and an invoice can't be issued until it's valid under มาตรา 86/4. Money is integer satang; issues tax-invoice + 50 ทวิ PDFs. **20 tests** in CI.
+
+<sub>`Next.js` · `TypeScript` · `Prisma` · `SQLite` · `NextAuth` · `@react-pdf`</sub>
+
+[**▶ live demo**](https://sendo.onrender.com) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/Sendo)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <br/>
