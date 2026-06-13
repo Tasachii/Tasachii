@@ -49,7 +49,7 @@ On-device finance PWA. Log an expense in 3 taps — 100% on your device, no acco
 
 <sub>`React` · `TypeScript` · `Vite` · `Dexie` · `Vitest`</sub>
 
-[**▶ live demo**](https://tasachii.github.io/pocketo/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/pocketo)
+[**▶ live demo**](https://tasachii.github.io/Pocketo/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/Pocketo)
 
 </td>
 <td width="50%" valign="top">
