@@ -93,7 +93,7 @@ Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholdi
 
 <sub>`Next.js` · `TypeScript` · `Prisma` · `SQLite` · `NextAuth` · `@react-pdf`</sub>
 
-[**▶ live demo**](https://sendo.onrender.com) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/Sendo)
+[**▶ live demo**](https://tasachii.github.io/Sendo/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/Sendo)
 
 </td>
 <td width="50%" valign="top">
