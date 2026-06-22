@@ -45,7 +45,7 @@ Interested in Data Engineering · Web Development · Backend · AI
 <td width="50%" valign="top">
 
 #### Pocketo
-On-device finance PWA. Log an expense in 3 taps — 100% on your device, no account. Money is stored as integer satang (no float bugs), with a Thai income-tax estimator. **89 tests** in CI.
+On-device finance PWA. Log an expense in 3 taps — 100% on your device, no account. Money is stored as integer satang (no float bugs), with a Thai income-tax estimator. **131 tests** in CI.
 
 <sub>`React` · `TypeScript` · `Vite` · `Dexie` · `Vitest`</sub>
 
@@ -71,7 +71,7 @@ Turns LINE group messages into a realtime Kanban board. Task extraction via Clau
 
 <sub>`TypeScript` · `NestJS` · `PostgreSQL` · `WebSocket` · `Docker`</sub>
 
-[→ repo](https://github.com/Tasachii/Line-Task-Manager)
+[**▶ live demo**](https://tasachii.github.io/Line-Task-Manager/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/Line-Task-Manager)
 
 </td>
 <td width="50%" valign="top">
@@ -81,7 +81,7 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 
 <sub>`Next.js` · `TypeScript` · `Claude API` · `Tailwind`</sub>
 
-[→ repo](https://github.com/Tasachii/Sarup-Lem)
+[**▶ live demo**](https://tasachii.github.io/Sarup-Lem/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/Sarup-Lem)
 
 </td>
 </tr>
@@ -89,7 +89,7 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 <td width="50%" valign="top">
 
 #### Sendo
-Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholding tax are computed and read-only, and an invoice can't be issued until it's valid under มาตรา 86/4. Money is integer satang; issues tax-invoice + 50 ทวิ PDFs. **20 tests** in CI.
+Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholding tax are computed and read-only, and an invoice can't be issued until it's valid under มาตรา 86/4. Money is integer satang; issues tax-invoice + 50 ทวิ PDFs. **155 tests** in CI.
 
 <sub>`Next.js` · `TypeScript` · `Prisma` · `SQLite` · `NextAuth` · `@react-pdf`</sub>
 
