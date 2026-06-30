@@ -108,8 +108,8 @@ Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholdi
 <div align="center">
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tasachii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&title_color=ffffff&icon_color=8ab4f8&text_color=c9d1d9&bg_color=1b2a4a" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasachii&layout=compact&hide_border=true&langs_count=8&border_radius=10&title_color=ffffff&text_color=c9d1d9&bg_color=1b2a4a" alt="top languages" />
+<img height="165" src="https://github-readme-stats-omega-two-gzhq57bkvy.vercel.app/api?username=Tasachii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&title_color=ffffff&icon_color=8ab4f8&text_color=c9d1d9&bg_color=1b2a4a" alt="stats" />
+<img height="165" src="https://github-readme-stats-omega-two-gzhq57bkvy.vercel.app/api/top-langs/?username=Tasachii&layout=compact&hide_border=true&langs_count=8&border_radius=10&title_color=ffffff&text_color=c9d1d9&bg_color=1b2a4a" alt="top languages" />
 
 </div>
 
