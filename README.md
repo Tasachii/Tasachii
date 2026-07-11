@@ -45,7 +45,7 @@ Interested in Data Engineering · Web Development · Backend · AI
 <td width="50%" valign="top">
 
 #### Pocketo
-On-device finance PWA. Log an expense in 3 taps — 100% on your device, no account. Money is stored as integer satang (no float bugs), with a Thai income-tax estimator. **131 tests** in CI.
+On-device finance PWA. Log an expense in 3 taps — 100% on your device, no account. Money is stored as integer satang (no float bugs), with a Thai income-tax estimator. **165 unit tests** in CI.
 
 <sub>`React` · `TypeScript` · `Vite` · `Dexie` · `Vitest`</sub>
 
@@ -55,7 +55,7 @@ On-device finance PWA. Log an expense in 3 taps — 100% on your device, no acco
 <td width="50%" valign="top">
 
 #### TodoDesu
-Local-first todo where a terminal CLI, web, and native iOS are equal clients of one Fastify + SQLite API. Add a task in the terminal, see it on the board instantly.
+Local-first todo with a terminal CLI and web client sharing one Fastify + SQLite API, plus a standalone browser/iOS engine for server-free use. **238 unit tests + 7 e2e scenarios**.
 
 <sub>`Node.js` · `Fastify` · `SQLite` · `React` · `Capacitor`</sub>
 
@@ -89,7 +89,7 @@ AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOC
 <td width="50%" valign="top">
 
 #### Sendo
-Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholding tax are computed and read-only, and an invoice can't be issued until it's valid under มาตรา 86/4. Money is integer satang; issues tax-invoice + 50 ทวิ PDFs. **155 tests** in CI.
+Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholding tax are computed and read-only, and an invoice can't be issued until it's valid under มาตรา 86/4. Money is integer satang; issues tax-invoice + 50 ทวิ PDFs. **222 tests**.
 
 <sub>`Next.js` · `TypeScript` · `Prisma` · `SQLite` · `NextAuth` · `@react-pdf`</sub>
 
@@ -97,6 +97,26 @@ Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholdi
 
 </td>
 <td width="50%" valign="top">
+
+#### data-platform
+End-to-end local data platform for a simulated Thai e-commerce/logistics company: daily orders, payment reconciliation, and marketing attribution. Dirty and late source data is injected deliberately, recorded in manifests, and caught by **76 pytest + 53 dbt tests**.
+
+<sub>`Python` · `DuckDB` · `dbt` · `Airflow` · `Docker` · `pytest`</sub>
+
+[repo](https://github.com/Tasachii/data-platform)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### Tasachii-Tools
+Personal Claude Code plugin marketplace with nine on-demand plugins for README work, QA, slide decks, thinking, data engineering, ML, full-stack design, and university workflows. Runs locally with no server or telemetry; stdlib-Python guards validate manifests, references, links, triggers, and versions.
+
+<sub>`Claude Code` · `Markdown` · `Python` · `Playwright` · `GitHub Actions`</sub>
+
+[repo](https://github.com/Tasachii/Tasachii-Tools)
+
 </td>
 </tr>
 </table>

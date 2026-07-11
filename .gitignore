@@ -1,0 +1,28 @@
+# Local agent/runtime state
+.omc/
+.omx/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Generated dependency/build output
+node_modules/
+dist/
+build/
+coverage/
+.cache/
