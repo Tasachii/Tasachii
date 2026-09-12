@@ -45,11 +45,11 @@ Interested in Data Engineering · Web Development · Backend · AI
 <td colspan="2" valign="top">
 
 #### Solo Tutor
-Back-office for a tutor who teaches alone. One tap marks a session taught; at month end every bill and the LINE message are drafted in the teacher's own voice — the teacher reads it and presses **ส่งใน LINE**. Parents stay in LINE with no app: a message, a PromptPay QR with the exact amount, a receipt. A week calendar with slot locking, a per-student course counter, and a real LINE Official Account behind it — messages proven to reach a real phone from production. Local-first PWA; the cloud copy is encrypted in the browser. **865 unit + 177 browser + 48 edge tests**.
+แอปช่วยงานหลังบ้านให้ครูสอนพิเศษที่ทำงานคนเดียว แตะครั้งเดียวเมื่อสอนเสร็จ สิ้นเดือนแอปคิดเงินและร่างบิลกับข้อความในน้ำเสียงของครูให้ ครูอ่านแล้วกด **ส่งใน LINE** ผู้ปกครองไม่ต้องโหลดแอป ได้ข้อความ บิลพร้อม QR พร้อมเพย์ที่ใส่ยอดไว้แล้ว และใบเสร็จ มีปฏิทินรายสัปดาห์ที่ล็อกคิวซ้อนให้ ตัวนับว่าสอนไปแล้วกี่ครั้งของคอร์ส และ LINE Official Account จริงอยู่เบื้องหลัง — ส่งถึงมือถือจริงจากระบบจริงแล้ว ข้อมูลอยู่ในเครื่องครู สำเนาบนคลาวด์เข้ารหัสก่อนออกจากเบราว์เซอร์ **ทดสอบอัตโนมัติ 865 + 177 + 48 ข้อ**
 
 <sub>`React` · `TypeScript` · `Vite` · `Supabase` · `PostgreSQL` · `LINE Messaging API` · `Playwright`</sub>
 
-[**▶ live demo**](https://tasachii.github.io/solo-tutor/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/solo-tutor)
+[**▶ ลองเล่น**](https://tasachii.github.io/solo-tutor/) &nbsp;·&nbsp; [โค้ด](https://github.com/Tasachii/solo-tutor)
 
 </td>
 </tr>
