@@ -42,6 +42,18 @@ Interested in Data Engineering · Web Development · Backend · AI
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+#### Solo Tutor
+Back-office for a tutor who teaches alone. One tap marks a session taught; at month end every bill and the LINE message are drafted in the teacher's own voice — the teacher reads it and presses **ส่งใน LINE**. Parents stay in LINE with no app: a message, a PromptPay QR with the exact amount, a receipt. A week calendar with slot locking, a per-student course counter, and a real LINE Official Account behind it — messages proven to reach a real phone from production. Local-first PWA; the cloud copy is encrypted in the browser. **865 unit + 177 browser + 48 edge tests**.
+
+<sub>`React` · `TypeScript` · `Vite` · `Supabase` · `PostgreSQL` · `LINE Messaging API` · `Playwright`</sub>
+
+[**▶ live demo**](https://tasachii.github.io/solo-tutor/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/solo-tutor)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### Pocketo
@@ -76,18 +88,6 @@ Turns LINE group messages into a realtime Kanban board. Task extraction via Clau
 </td>
 <td width="50%" valign="top">
 
-#### Sarup Lem
-AI book summarizer for Thai. Streams chapter-by-chapter summaries from PDF / DOCX / TXT — shows the price in Baht *before* any call, ~90% cheaper follow-ups via prompt caching.
-
-<sub>`Next.js` · `TypeScript` · `Claude API` · `Tailwind`</sub>
-
-[**▶ live demo**](https://tasachii.github.io/Sarup-Lem/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/Sarup-Lem)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### Sendo
 Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholding tax are computed and read-only, and an invoice can't be issued until it's valid under มาตรา 86/4. Money is integer satang; issues tax-invoice + 50 ทวิ PDFs. **222 tests**.
 
@@ -96,6 +96,8 @@ Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholdi
 [**▶ live demo**](https://tasachii.github.io/Sendo/) &nbsp;·&nbsp; [repo](https://github.com/Tasachii/Sendo)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### data-platform
@@ -106,9 +108,7 @@ End-to-end local data platform for a simulated Thai e-commerce/logistics company
 [repo](https://github.com/Tasachii/data-platform)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 #### Tasachii-Tools
 Personal Claude Code plugin marketplace with nine on-demand plugins for README work, QA, slide decks, thinking, data engineering, ML, full-stack design, and university workflows. Runs locally with no server or telemetry; stdlib-Python guards validate manifests, references, links, triggers, and versions.
