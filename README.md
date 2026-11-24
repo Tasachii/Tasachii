@@ -140,7 +140,7 @@ Personal Claude Code plugin marketplace with nine on-demand plugins for README w
 <div align="center">
 <br/>
 
-<a href="mailto:kazutokung59@gmail.com"><img src="https://img.shields.io/badge/Email-2c5364?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="mailto:phasathat.dev@gmail.com"><img src="https://img.shields.io/badge/Email-2c5364?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 &nbsp;
 <a href="https://github.com/Tasachii"><img src="https://img.shields.io/badge/GitHub-1b2a4a?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
 &nbsp;
