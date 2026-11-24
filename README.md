@@ -144,7 +144,7 @@ Personal Claude Code plugin marketplace with nine on-demand plugins for README w
 &nbsp;
 <a href="https://github.com/Tasachii"><img src="https://img.shields.io/badge/GitHub-1b2a4a?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/phasathat-jaruchitsophon-6063202b9/"><img src="https://img.shields.io/badge/LinkedIn-4a6fa5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/phasathat/"><img src="https://img.shields.io/badge/LinkedIn-4a6fa5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 &nbsp;
 <a href="https://www.instagram.com/ttpxt_"><img src="https://img.shields.io/badge/Instagram-2c5364?style=flat-square&logo=instagram&logoColor=white" alt="instagram" /></a>
 &nbsp;
