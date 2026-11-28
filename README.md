@@ -105,7 +105,7 @@ End-to-end local data platform for a simulated Thai e-commerce/logistics company
 
 <sub>`Python` · `DuckDB` · `dbt` · `Airflow` · `Docker` · `pytest`</sub>
 
-[repo](https://github.com/Tasachii/Data-Platform)
+[repo](https://github.com/Tasachii/Siam-Commerce)
 
 </td>
 <td width="50%" valign="top">
