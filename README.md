@@ -49,7 +49,7 @@ Interested in Data Engineering · Web Development · Backend · AI
 
 <sub>`React` · `TypeScript` · `Vite` · `Supabase` · `PostgreSQL` · `LINE Messaging API` · `Playwright`</sub>
 
-[**▶ ลองเล่น**](https://tasachii.github.io/solo-tutor/) &nbsp;·&nbsp; [โค้ด](https://github.com/Tasachii/solo-tutor)
+[**▶ ลองเล่น**](https://tasachii.github.io/Solo-Tutor/) &nbsp;·&nbsp; [โค้ด](https://github.com/Tasachii/Solo-Tutor)
 
 </td>
 </tr>
@@ -100,12 +100,12 @@ Multi-tenant Thai logistics invoicing built on *poka-yoke* — VAT and withholdi
 <tr>
 <td width="50%" valign="top">
 
-#### data-platform
+#### Siam Commerce
 End-to-end local data platform for a simulated Thai e-commerce/logistics company: daily orders, payment reconciliation, and marketing attribution. Dirty and late source data is injected deliberately, recorded in manifests, and caught by **76 pytest + 53 dbt tests**.
 
 <sub>`Python` · `DuckDB` · `dbt` · `Airflow` · `Docker` · `pytest`</sub>
 
-[repo](https://github.com/Tasachii/data-platform)
+[repo](https://github.com/Tasachii/Data-Platform)
 
 </td>
 <td width="50%" valign="top">
